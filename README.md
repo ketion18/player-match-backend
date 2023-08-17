@@ -15,7 +15,9 @@
 按标签搜索球员：
 
 ![](https://github.com/ketion18/player-match-backend/blob/main/doc/search.png?raw=true)
+
 搜索结果:
+
 ![](https://github.com/ketion18/player-match-backend/blob/main/doc/search_player.png?raw=true)
 
 公开球队：
